@@ -1,3 +1,13 @@
+/*
+Heap – A heap is an abstract data type categorised into max-heap and min-heap. 
+For all nodes in a heap, if the root node is greater than its children, it is referred to as 
+the max-heap; if the root node is smaller than its children, it is referred to as the min-heap.
+
+Heap Sort - A heap sort is also based on the comparison and selection method. It considers the given
+ array as a heap, converts it into max-heap or min-heap, and then sorts the array by 
+selecting and eliminating.
+
+*/
 public class HeapSort {
 
     public static void heapSort(int arr[]) {

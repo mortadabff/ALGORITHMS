@@ -1,3 +1,9 @@
+/*
+Merge Sort – The merge sort is a divide and conquer technique that divides a bigger problem into two sub-problems, and each sub-problem is further addressed separately. 
+The out of the program is formed by combining all the results of each sub-problems.
+*/
+
+
 public class MergeSort {
 
     public static void mergeSort(int arr[], int l, int r) {
